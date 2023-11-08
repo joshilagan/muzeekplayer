@@ -8,9 +8,9 @@ I added a json file so there can be data to be fetched and add more functionalit
 
 I used the audio object to implement audio in the HTML which can then be utilized using scripts. 
 **Audio properties that were used here were:**
-* currentTime
-* duration
-* src
+* .currentTime
+* .duration
+* .src
 
 **Audio methods used were:**
 * play()
