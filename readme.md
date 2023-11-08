@@ -1,6 +1,6 @@
 # This project was built using VanillaCSS and VanillaJS.
 
-I used linear gradients for the background styling
+I used linear gradients for the background styling.
 I used 'span' to design the play button and implemented the clip path to transform the 'span' into a polygon.
 I added transform and transition to dissolve 1 'span' and turn the other 'span' into a triangle and have a smooth animation.
 
