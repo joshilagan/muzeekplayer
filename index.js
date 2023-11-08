@@ -92,7 +92,6 @@ const playMusic = () => {
   playBtn.classList.remove('pause');
 
 }
-playMusic();
 
 //forward and backward button
 forwardBtn.addEventListener('click', () => {
